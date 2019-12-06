@@ -1,0 +1,5 @@
+order	name	gender	birth	address	phone	email	university	graduate	major	education
+1	张三	男	1998.06	河南新乡	18900000001	py1@xxmu.edu.cn	新乡医学院	2020.06	临床医学	学士
+2	李四	女	1995.11	河南郑州	18900000002	py2@xxmu.edu.cn	新乡医学院	2020.06	生物学	硕士
+3	王五	男	1993.11	河南商丘	18900000003	py3@nju.edu.cn	南京大学	2020.06	物理学	博士
+
